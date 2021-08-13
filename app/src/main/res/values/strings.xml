@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">set7ngweilun</string>
+    <string name="name">name</string>
+    <string name="age">Age</string>
+    <string name="taxable_income">Taxable Income (RM)</string>
+    <string name="calculate_tax">Calculate Tax</string>
+    <string name="contact">Pejabat Lembaga Hasil Dalam Negeri Malaysia</string>
+    <string name="contact_label">For more information, please click the link below:</string>
+    <string name="name_label">Name :</string>
+    <string name="age_label">Age :</string>
+    <string name="income_label">Taxable Income :</string>
+    <string name="tax2015">2015 Tax amount :</string>
+    <string name="tax2016">2016 Tax amount :</string>
+</resources>
